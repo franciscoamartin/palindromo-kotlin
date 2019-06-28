@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Palíndromo</string>
+
+    <string name="eh_palindromo">É um palíndromo?(versão beta, soment palavras)</string>
+
+    <string name="hint_informe_palavra">Informe aqui a palavra</string>
+
+    <string name="rotulo_verificar">Verificar</string>
+</resources>
